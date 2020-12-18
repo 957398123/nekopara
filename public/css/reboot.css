@@ -1,0 +1,9 @@
+html, body {
+    font-family: YakuHanJP,"Noto Sans TC",sans-serif;
+}
+
+ul, li {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
